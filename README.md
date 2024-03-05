@@ -1,2 +1,2 @@
 # Dino
-![Alt text](Dino.gif)
+![Alt text](dino.gif)
